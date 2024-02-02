@@ -3,7 +3,7 @@ This week I created a static website for a fictional startup call MakerMesh.
 I tried out a few options for hosting but settled on GitHub pages for the hosting and PHP Storm with some usage of Bootstrap for the creation of the site.
 I used a few resources to help me accomplish this (Linked below).  
 
-https://www.w3schools.com/ (for html, css and bootstrap)
+https://www.w3schools.com/ (for html, css and bootstrap)  
 https://stackoverflow.com/questions/20721248/how-can-i-override-bootstrap-css-styles\
 https://getbootstrap.com/docs/5.1/examples/
 
